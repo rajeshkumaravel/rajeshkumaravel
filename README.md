@@ -29,9 +29,9 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 ### Find me all around the web:
 
 <p>
-  <a href="https://twitter.com/rk_rajeshk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://twitter.com/rk_rajeshk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" target="_blank" height=25></a>
   <a href="https://in.linkedin.com/in/rajeshkmv"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height=25></a>
-	<a href="https://dev.to/rajeshkumaravel"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white" height=25></a>
+  <a href="https://dev.to/rajeshkumaravel"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
 Author of NPM Package: [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
