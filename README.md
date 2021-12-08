@@ -37,7 +37,7 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 Author of NPM Package: [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
 
 ---
-- 🔭 I’m currently working as **Senior Software Engineer @ Tarento Technologies**
+- 🔭 I’m currently working as **Technology Lead @ Tarento Technologies**
 - 👯 I’m looking to collaborate on open source projects
 
 ![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajeshkumaravel&show_icons=true&hide_border=true&hide=stars)
