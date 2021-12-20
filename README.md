@@ -41,6 +41,7 @@ Author of NPM Package: [Node Express Request Id](https://www.npmjs.com/package/n
 - 👯 I’m looking to collaborate on open source projects
 
 ![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajeshkumaravel&show_icons=true&hide_border=true&hide=stars)
+![Rajesh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumaravel)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumaravel&layout=compact)
 
 
