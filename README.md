@@ -40,7 +40,7 @@ Author of NPM Package: [Node Express Request Id](https://www.npmjs.com/package/n
 - 🔭 I’m currently working as **Technology Lead @ Tarento Technologies**
 - 👯 I’m looking to collaborate on open source projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumaravel&" alt="fesoque" /></p>
+<p><img align="center" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumaravel&" alt="fesoque" /></p>
 
 ![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajeshkumaravel&show_icons=true&hide_border=true&hide=stars)
 ![Rajesh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumaravel)
