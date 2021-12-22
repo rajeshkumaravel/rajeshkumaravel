@@ -34,7 +34,9 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
   <a href="https://dev.to/rajeshkumaravel"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
-Author of NPM Package: [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
+### Author of NPM Packages: 
+[Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
+[Angular SVG Editor](https://www.npmjs.com/package/ng-svg-editor)
 
 ---
 - 🔭 I’m currently working as **Technology Lead @ Tarento Technologies**
