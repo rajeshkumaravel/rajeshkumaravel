@@ -35,7 +35,9 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 </p>
 
 ### Author of NPM Packages: 
+
 [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
+
 [Angular SVG Editor](https://www.npmjs.com/package/ng-svg-editor)
 
 ---
