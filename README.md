@@ -36,7 +36,7 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 
 ### Author of NPM Packages: 
 
-[Node Keyword Scrapper](https://www.npmjs.com/package/node-keyword-scrapper)
+[Node Keyword Scrapper](https://www.npmjs.com/package/node-keyword-scrapper) [![NPM version](https://img.shields.io/npm/v/node-keyword-scrapper.svg?flat&logo=npm)](https://img.shields.io/npm/v/node-keyword-scrapper.svg?style=for-the-badge&logo=npm)
 
 [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
 
