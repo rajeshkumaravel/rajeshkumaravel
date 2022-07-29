@@ -36,6 +36,8 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 
 ### Author of NPM Packages: 
 
+[Node Keyword Scrapper](https://www.npmjs.com/package/node-keyword-scrapper)
+
 [Node Express Request Id](https://www.npmjs.com/package/node-express-req-id)
 
 [Angular SVG Editor](https://www.npmjs.com/package/ng-svg-editor)
