@@ -45,7 +45,7 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeshkumaravel&margin-w=15)](https://github.com/rajeshkumaravel)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeshkumaravel&margin-w=15&margin-h=15)](https://github.com/rajeshkumaravel)
 
 ---
 - 🔭 I’m currently working as **Technology Lead @ Tarento Technologies**
