@@ -42,6 +42,11 @@ I'm a **Fullstack Developer** with a demonstrated history of working in the info
 
 [Angular SVG Editor](https://www.npmjs.com/package/ng-svg-editor)
 
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeshkumaravel&margin-w=15)](https://github.com/rajeshkumaravel)
+
 ---
 - 🔭 I’m currently working as **Technology Lead @ Tarento Technologies**
 - 👯 I’m looking to collaborate on open source projects
